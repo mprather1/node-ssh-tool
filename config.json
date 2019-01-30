@@ -1,0 +1,7 @@
+{
+  "COMMAND": "sudo apt-get update",
+  "IP_LIST": [
+    { "username": "username", "password": "password", "ip": "192.168.0.2" },
+    { "username": "username", "password": "password", "ip": "192.168.0.3" }
+  ]
+}
